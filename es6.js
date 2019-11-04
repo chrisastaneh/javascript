@@ -80,9 +80,4 @@
 
      console.log(lyrics);
 
-     //ES7
-
-     //ES8
-     
-
 })();
